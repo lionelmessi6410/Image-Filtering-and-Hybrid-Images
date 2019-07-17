@@ -87,64 +87,64 @@ hybrid_image = low_frequencies + high_frequencies
 <table border=1>
 <tr>
 <td>
-<img src=".results/low_frequencies.png" width="24%"/>
-<img src=".results/high_frequencies.png"  width="24%"/>
-<img src=".results/hybrid_image.png" width="24%"/>
-<img src=".results/hybrid_image_scales.png" width="24%"/>
+<img src="results/low_frequencies.png" width="24%"/>
+<img src="results/high_frequencies.png"  width="24%"/>
+<img src="results/hybrid_image.png" width="24%"/>
+<img src="results/hybrid_image_scales.png" width="24%"/>
 </td>
 </tr>
 
 <tr>
 <td>
-<img src=".results/low_frequencies2.png" width="24%"/>
-<img src=".results/high_frequencies2.png"  width="24%"/>
-<img src=".results/hybrid_image2.png" width="24%"/>
-<img src=".results/hybrid_image_scales2.png" width="24%"/>
+<img src="results/low_frequencies2.png" width="24%"/>
+<img src="results/high_frequencies2.png"  width="24%"/>
+<img src="results/hybrid_image2.png" width="24%"/>
+<img src="results/hybrid_image_scales2.png" width="24%"/>
 </td>
 </tr>
 
 <tr>
 <td>
-<img src=".results/low_frequencies3.png" width="24%"/>
-<img src=".results/high_frequencies3.png"  width="24%"/>
-<img src=".results/hybrid_image3.png" width="24%"/>
-<img src=".results/hybrid_image_scales3.png" width="24%"/>
+<img src="results/low_frequencies3.png" width="24%"/>
+<img src="results/high_frequencies3.png"  width="24%"/>
+<img src="results/hybrid_image3.png" width="24%"/>
+<img src="results/hybrid_image_scales3.png" width="24%"/>
 </td>
 </tr>
 
 <tr>
 <td>
-<img src=".results/low_frequencies4.png" width="24%"/>
-<img src=".results/high_frequencies4.png"  width="24%"/>
-<img src=".results/hybrid_image4.png" width="24%"/>
-<img src=".results/hybrid_image_scales4.png" width="24%"/>
+<img src="results/low_frequencies4.png" width="24%"/>
+<img src="results/high_frequencies4.png"  width="24%"/>
+<img src="results/hybrid_image4.png" width="24%"/>
+<img src="results/hybrid_image_scales4.png" width="24%"/>
 </td>
 </tr>
 
 <tr>
 <td>
-<img src="l.results/ow_frequencies5.png" width="24%"/>
-<img src=".results/high_frequencies5.png"  width="24%"/>
-<img src=".results/hybrid_image5.png" width="24%"/>
-<img src=".results/hybrid_image_scales5.png" width="24%"/>
+<img src="results/low_frequencies5.png" width="24%"/>
+<img src="results/high_frequencies5.png"  width="24%"/>
+<img src="results/hybrid_image5.png" width="24%"/>
+<img src="results/hybrid_image_scales5.png" width="24%"/>
 </td>
 </tr>
 
 <tr>
 <td>
-<img src=".results/low_frequencies6.png" width="24%"/>
-<img src=".results/high_frequencies6.png"  width="24%"/>
-<img src=".results/hybrid_image6.png" width="24%"/>
-<img src=".results/hybrid_image_scales6.png" width="24%"/>
+<img src="results/low_frequencies6.png" width="24%"/>
+<img src="results/high_frequencies6.png"  width="24%"/>
+<img src="results/hybrid_image6.png" width="24%"/>
+<img src="results/hybrid_image_scales6.png" width="24%"/>
 </td>
 </tr>
 
 <tr>
 <td>
-<img src=".results/low_frequencies7.png" width="24%"/>
-<img src=".results/high_frequencies7.png"  width="24%"/>
-<img src=".results/hybrid_image7.png" width="24%"/>
-<img src=".results/hybrid_image_scales7.png" width="24%"/>
+<img src="results/low_frequencies7.png" width="24%"/>
+<img src="results/high_frequencies7.png"  width="24%"/>
+<img src="results/hybrid_image7.png" width="24%"/>
+<img src="results/hybrid_image_scales7.png" width="24%"/>
 </td>
 </tr>
 
